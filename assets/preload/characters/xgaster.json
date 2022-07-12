@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				380
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GASTERIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				372
+			],
+			"anim": "singLEFT",
+			"fps": 25,
+			"name": "GASTERLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				354
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "GASTERDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				376
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "GASTERUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				371
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "GASTERIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XGASTER",
+	"position": [
+		-250,
+		310
+	],
+	"healthicon": "gaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		-550
+	],
+	"sing_duration": 4,
+	"scale": 1.20
+}
